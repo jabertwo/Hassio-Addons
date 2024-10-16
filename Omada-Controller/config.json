@@ -1,6 +1,6 @@
 {
     "name": "Omada Controller",
-    "version": "5.13",
+    "version": "5.13.1",
     "slug": "omada_controller",
     "description": "TP-Link Omada Controller",
     "url": "https://github.com/jabertwo/Hassio-Addons",
